@@ -24,13 +24,13 @@ export default function Hero() {
             
             <div className="space-y-4">
               <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 font-light">
-                I&apos;m perpetually thinking, doing, and measuring. Currently building @ Workday, focused on the Frontline Employee Experience
+                Perpetually thinking, doing, and measuring - currently shaping the frontline employee experience @ workday
               </p>
             </div>
 
             <div className="pt-4 border-t border-gray-200 dark:border-gray-800">
               <p className="text-base text-gray-600 dark:text-gray-400 leading-relaxed">
-                I&apos;m driven by curiosity—about people, systems, and how things work—and I&apos;m continually searching for work that feels both impactful and purposeful. Outside of product, I prioritize health, clean living, and spending time with people who challenge and inspire me.
+                I&apos;m driven by curiosity - about people, systems, and how the world works. Continually searching for work that feels both impactful and purposeful. Outside of product, I prioritize fitness, nature, and spending time with people who challenge and inspire me.
               </p>
             </div>
           </motion.div>
