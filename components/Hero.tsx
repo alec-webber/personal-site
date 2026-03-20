@@ -24,7 +24,7 @@ export default function Hero() {
             
             <div className="space-y-4">
               <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 font-light">
-                Perpetually thinking, doing, and measuring - currently helping ship reliable AI experiences at Cursor
+                currently building the future of coding at Cursor
               </p>
             </div>
 
