@@ -2,23 +2,23 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Alec Webber | Senior Product Manager",
-  description: "Personal portfolio of Alec Webber - Senior Product Manager at Workday. Showcasing projects, thoughts, and creative work.",
-  keywords: ["Alec Webber", "Product Manager", "Workday", "Portfolio"],
+  title: "Alec Webber | AI Deployments at Cursor",
+  description: "Personal portfolio of Alec Webber - helping ship reliable AI experiences at Cursor. Showcasing projects, thoughts, and creative work.",
+  keywords: ["Alec Webber", "AI", "Cursor", "Portfolio", "Deployments"],
   authors: [{ name: "Alec Webber" }],
   creator: "Alec Webber",
   openGraph: {
     type: "website",
     locale: "en_US",
     url: "https://alecwebber.com",
-    title: "Alec Webber | Senior Product Manager",
-    description: "Personal portfolio of Alec Webber - Senior Product Manager at Workday.",
+    title: "Alec Webber | AI Deployments at Cursor",
+    description: "Personal portfolio of Alec Webber - helping ship reliable AI experiences at Cursor.",
     siteName: "Alec Webber",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Alec Webber | Senior Product Manager",
-    description: "Personal portfolio of Alec Webber - Senior Product Manager at Workday.",
+    title: "Alec Webber | AI Deployment at Cursor",
+    description: "Personal portfolio of Alec Webber - helping ship reliable AI experiences at Cursor.",
     creator: "@aleccwebber",
   },
   robots: {
